@@ -1,0 +1,18 @@
+site_name: Portfólio - Jean Luca Cariolato
+site_url: https://mydomain.org/mysite
+theme:
+  palette:
+    primary: blue
+  name: material
+  features:
+    - navigation.instant
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+
+nav:
+- Home: index.md
+- Sobre: about.md
